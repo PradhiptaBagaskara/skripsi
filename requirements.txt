@@ -1,4 +1,4 @@
-Django==3.0.4
+Django==3.1.12
 django_heroku==0.3.1
 nltk==3.4.5
 numpy==1.18.2
